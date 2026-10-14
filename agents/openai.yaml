@@ -1,0 +1,4 @@
+interface:
+  display_name: "极简前端设计"
+  short_description: "默认极简、适配既有品牌的前端视觉、组件交互与可用性设计技能"
+  default_prompt: "请使用 $minimal-ui-design 设计或改进当前页面，沿用已有品牌和组件体系；缺少规范时采用极简默认值，并验证相关交互状态。"
